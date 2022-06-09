@@ -1,0 +1,12 @@
+body {
+  padding: 10%;
+  background-color: rgb(11, 34, 48);
+  height: 100vh;
+  overflow: hidden;
+}
+
+canvas {
+  position: relative;
+  left: 15%;
+  border: 0.5em solid rgba(14, 179, 102, 0.822);
+}
